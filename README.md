@@ -15,6 +15,8 @@
 
 #### -P
 * Define padrão de cadeias
+* Comando "iptables -P FORWARD DROP" - Roteamento
+* Comando "iptables -P INPUT DROP" - Bloqueia a entrada(Esgotado o tempo de limite do pedido)
 
 #### -F
 * Apaga todas as regras
