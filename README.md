@@ -1,3 +1,5 @@
+*** IpTables: Trabalha com protocolo de IP, nascamadas de transporte e redes;
+
 #### -A
 * Adiciona no fim
 
