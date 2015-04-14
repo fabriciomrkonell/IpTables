@@ -38,7 +38,8 @@
 * Ação (DROP - ACCEPT -REJECT)
 
 #### -t
-* Tipo de tratamento (Nat, Filter, Mangle)
+* Tipo de tratamento (Cadeias: Nat, Filter, Mangle)
+* OBS: Sempre que digitar um comando, tem que passar a cadeia na primeira configuração
 
 #### INPUT
 * Entrada
