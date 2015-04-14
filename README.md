@@ -1,5 +1,5 @@
-*** IpTables: Trabalha com protocolo de IP, nas camadas de transporte e redes;
-*** Squid: Trabalha na camada de aplicação;
+* IpTables: Trabalha com protocolo de IP, nas camadas de transporte e redes;
+* Squid: Trabalha na camada de aplicação;
 
 #### -A
 * Adiciona no fim
